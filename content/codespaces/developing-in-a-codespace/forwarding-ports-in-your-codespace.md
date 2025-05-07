@@ -1,4 +1,4 @@
----
+MAJ IOR FORCE MOV THEN PORT VIABLE IN NEXT NUMERAL FACT PLACE EG 3=4
 title: Forwarding ports in your codespace
 shortTitle: Forward ports
 intro: '{% data reusables.codespaces.about-port-forwarding %}'
